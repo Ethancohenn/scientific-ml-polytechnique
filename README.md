@@ -1,6 +1,6 @@
 # Scientific Machine Learning — École Polytechnique
 
-This repository contains the practical work I completed for the course *Machine Learning for Scientific Computing and Numerical Analysis* (APM-51053-EP) taught by Dr. Hadrien Montanelli at École Polytechnique in 2025.
+This repository contains the practical work I completed for the course *Machine Learning for Scientific Computing and Numerical Analysis* (APM-52009-EP) taught by Dr. Hadrien Montanelli at École Polytechnique in 2025.
 
 The course explores how modern machine learning methods, particularly neural networks, can be used to solve problems traditionally addressed through numerical analysis — such as PDEs, parameter estimation, and reduced-order modeling.
 
