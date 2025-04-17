@@ -21,4 +21,16 @@ Each practical session includes a hands-on Jupyter notebook, and the final proje
   - Reduced basis methods (SVD, Galerkin)
   - Neural operators: DeepONet, Fourier Neural Operators (FNOs)
 
+### How to Use
+
+Clone the repository:
+```bash
+git clone https://github.com/Ethancohenn/scientific-ml-polytechnique.git
+cd scientific-ml-polytechnique
+```
+
+Explore notebooks for step-by-step analysis and model training:
+```bash
+jupyter notebook
+```
 
