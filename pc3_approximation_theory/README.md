@@ -13,5 +13,5 @@ This notebook is the third practical assignment of the course *Machine Learning 
   - Partition of unity approach for global approximation  
   - Sum‑product of local Taylor polynomials 
 
-- **Exercises**  
-  This notebook includes hands‑on exercises.
+- **Lecture Questions Answers**  
+  See `pc3_lecture_questions_answers.pdf`
